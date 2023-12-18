@@ -6,6 +6,7 @@ First and formost:
 The amazon-meta.json file would need to be configured to your specifications to locate the file for this project.
 
 some pip installs:
+  ```python
   pip install pandas
   pip install numpy
   pip install scikit-learn
@@ -18,7 +19,8 @@ some pip installs:
   pip install spacy
   pip install json5
   pip install sqlalchemy
-  pip install pymysql 
+  pip install pymysql
+  ``` 
 
 to run the applications:
 
